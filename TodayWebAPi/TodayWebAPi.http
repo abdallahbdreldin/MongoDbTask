@@ -1,0 +1,19 @@
+@TodayWebAPi_HostAddress = https://localhost:7055
+
+GET {{TodayWebAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{TodayWebAPi_HostAddress}}/api/order
+Content-Type: application/json
+
+{
+  //OrderDto
+}
+
+###
+
+GET {{TodayWebAPi_HostAddress}}/api/product/GetAll
+
+###
