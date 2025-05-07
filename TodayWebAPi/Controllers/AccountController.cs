@@ -2,8 +2,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
-using TodayWebApi.BLL.Dtos;
-using TodayWebApi.BLL.Managers;
+using TodayWebApi.BLL.Dtos.Authentication;
+using TodayWebApi.BLL.Managers.Shared.Token;
 using TodayWebAPi.DAL.Data.Identity;
 
 [Route("api/[controller]")]

@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TodayWebAPi.DAL.Data.Models;
+using TodayWebAPi.DAL.Data.Entities;
 using TodayWebAPi.DAL.Repos.Basket;
 
 namespace TodayWebAPi.Controllers

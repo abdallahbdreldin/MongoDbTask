@@ -1,0 +1,758 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\orders\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\orders\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\products\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\products\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\generic\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\generic\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|solutionrelative:todaywebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\generic\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\generic\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\products\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\products\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\products\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\products\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\products\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\products\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\context\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\context\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\identity\\identitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\identity\\identitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\orders\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\orders\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\basket\\basketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\basket\\basketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\repos\\basket\\ibasketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\repos\\basket\\ibasketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|solutionrelative:todaywebapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|solutionrelative:todaywebapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\dtos\\shared\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\dtos\\shared\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\shared\\payment\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\shared\\payment\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|solutionrelative:todaywebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\dtos\\orders\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\dtos\\orders\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\dtos\\orders\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\dtos\\orders\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\dtos\\orders\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\dtos\\orders\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\todaywebapi.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\todaywebapi.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\shared\\token\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\shared\\token\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\dtos\\authentication\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\dtos\\authentication\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\shared\\payment\\ipaymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\shared\\payment\\ipaymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\shared\\token\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\shared\\token\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\shared\\email\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\shared\\email\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.bll\\managers\\shared\\email\\iemailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10330E7C-0CC4-432A-AF88-FFE8333FFCF1}|TodayWebApi.BLL\\TodayWebApi.BLL.csproj|solutionrelative:todaywebapi.bll\\managers\\shared\\email\\iemailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|solutionrelative:todaywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE44C47-DA22-4992-966C-EB1F1F655088}|TodayWebAPi\\TodayWebAPi.csproj|solutionrelative:todaywebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|c:\\users\\mohamed\\desktop\\todaywebapi\\todaywebapi.dal\\data\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE069C5-BD90-41BF-BC00-4E7455ABADDD}|TodayWebAPi.DAL\\TodayWebAPi.DAL.csproj|solutionrelative:todaywebapi.dal\\data\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:14:07.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Generic\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\Generic\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Generic\\GenericRepo.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\Generic\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:49:35.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Products\\ProductManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Products\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Products\\ProductManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Products\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:56:04.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Orders\\OrderManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Orders\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Orders\\OrderManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Orders\\OrderManager.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAA9wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:49:40.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Products\\IProductManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Products\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Products\\IProductManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Products\\IProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:48:09.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:45:41.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TodayWebAPi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:05:12.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Generic\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\Generic\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Generic\\IGenericRepo.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\Generic\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:49:40.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Products\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\Products\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Products\\ProductRepo.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\Products\\ProductRepo.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwE4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:49:14.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Products\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\Products\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Products\\IProductRepo.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\Products\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:45:34.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Context\\StoreContext.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Context\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Context\\StoreContext.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Context\\StoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:57:41.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\OrderStatus.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\OrderStatus.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:04:39.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityDbContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Identity\\IdentityDbContextSeed.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Identity\\IdentityDbContextSeed.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Identity\\IdentityDbContextSeed.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Identity\\IdentityDbContextSeed.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:51:22.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Identity\\Role.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Identity\\Role.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Identity\\Role.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Identity\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:51:39.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Orders\\IOrderManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Orders\\IOrderManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Orders\\IOrderManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Orders\\IOrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:48:05.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\CustomerBasket.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\CustomerBasket.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\CustomerBasket.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:52:48.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasketRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Basket\\BasketRepo.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\Basket\\BasketRepo.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Basket\\BasketRepo.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\Basket\\BasketRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:45:24.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBasketRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Basket\\IBasketRepo.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Repos\\Basket\\IBasketRepo.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Repos\\Basket\\IBasketRepo.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Repos\\Basket\\IBasketRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:45:21.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\ProductType.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\ProductType.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:15:59.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:15:55.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "TodayWebAPi\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:17:58.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "TodayWebAPi\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:20:07.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\Order.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\Order.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:27:16.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\Payment.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:40:56.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:19:56.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Products\\ProductDto.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Dtos\\Products\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Products\\ProductDto.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Dtos\\Products\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:13:34.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeliveryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\DeliveryMethod.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\DeliveryMethod.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\DeliveryMethod.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\DeliveryMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:45:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Shared\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Dtos\\Shared\\PaginationDto.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Shared\\PaginationDto.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Dtos\\Shared\\PaginationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:56:43.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Entities\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Entities\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:45:24.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Payment\\PaymentManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Shared\\Payment\\PaymentManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Payment\\PaymentManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Shared\\Payment\\PaymentManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:45:56.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TodayWebAPi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:00:03.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Products\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Dtos\\Products\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Products\\UpdateProductDto.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Dtos\\Products\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:13:37.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Orders\\OrderToReturnDto.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Dtos\\Orders\\OrderToReturnDto.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Orders\\OrderToReturnDto.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Dtos\\Orders\\OrderToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:13:28.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Orders\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Dtos\\Orders\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Orders\\OrderItemDto.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Dtos\\Orders\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:13:25.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Orders\\OrderDto.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Dtos\\Orders\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Orders\\OrderDto.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Dtos\\Orders\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:13:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TodayWebApi.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\TodayWebApi.BLL.csproj",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\TodayWebApi.BLL.csproj",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\TodayWebApi.BLL.csproj",
+              "RelativeToolTip": "TodayWebApi.BLL\\TodayWebApi.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T15:00:07.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Authentication\\UserDto.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Dtos\\Authentication\\UserDto.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Dtos\\Authentication\\UserDto.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Dtos\\Authentication\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:43:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Token\\TokenManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Shared\\Token\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Token\\TokenManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Shared\\Token\\TokenManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:51:56.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ITokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Token\\ITokenManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Shared\\Token\\ITokenManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Token\\ITokenManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Shared\\Token\\ITokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:47:35.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Email\\EmailManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Shared\\Email\\EmailManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Email\\EmailManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Shared\\Email\\EmailManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:44:55.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Payment\\IPaymentManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Shared\\Payment\\IPaymentManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Payment\\IPaymentManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Shared\\Payment\\IPaymentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:44:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IEmailManager.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Email\\IEmailManager.cs",
+              "RelativeDocumentMoniker": "TodayWebApi.BLL\\Managers\\Shared\\Email\\IEmailManager.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebApi.BLL\\Managers\\Shared\\Email\\IEmailManager.cs",
+              "RelativeToolTip": "TodayWebApi.BLL\\Managers\\Shared\\Email\\IEmailManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:45:01.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TodayWebAPi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv2EAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:00:13.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\appsettings.json",
+              "RelativeDocumentMoniker": "TodayWebAPi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi\\appsettings.json",
+              "RelativeToolTip": "TodayWebAPi\\appsettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T08:00:12.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "TodayWebAPi.DAL\\Data\\Identity\\User.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\TodayWebAPi\\TodayWebAPi.DAL\\Data\\Identity\\User.cs",
+              "RelativeToolTip": "TodayWebAPi.DAL\\Data\\Identity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:51:41.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using TodayWebApi.BLL.Dtos;
-using TodayWebApi.BLL.Managers;
+using TodayWebApi.BLL.Dtos.Products;
+using TodayWebApi.BLL.Dtos.Shared;
+using TodayWebApi.BLL.Managers.Product;
 
 namespace TodayWebAPi.Controllers
 {

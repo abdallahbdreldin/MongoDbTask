@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using MongoDB.Bson;
+using System.Security.Claims;
 
 namespace TodayWebAPi.DAL.Data.Identity
 {
@@ -20,6 +21,9 @@ namespace TodayWebAPi.DAL.Data.Identity
                         NormalizedName = roleName.ToUpper()
                     };
                     await roleManager.CreateAsync(role);
+
+                    var claim = new Claim("Permission", roleName == "Admin" ? "FullAccess" : "LimitedAccess");
+                    await roleManager.AddClaimAsync(role, claim);
                 }
             }
 

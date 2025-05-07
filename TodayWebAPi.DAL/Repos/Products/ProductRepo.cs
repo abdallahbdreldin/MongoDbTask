@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Driver;
 using TodayWebAPi.DAL.Data.Context;
-using TodayWebAPi.DAL.Data.Models;
+using TodayWebAPi.DAL.Data.Entities;
 using TodayWebAPi.DAL.Repos.Generic;
 
 namespace TodayWebAPi.DAL.Repos.Products

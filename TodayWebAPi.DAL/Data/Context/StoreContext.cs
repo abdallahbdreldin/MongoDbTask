@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Driver;
-using TodayWebAPi.DAL.Data.Models;
+using TodayWebAPi.DAL.Data.Entities;
 namespace TodayWebAPi.DAL.Data.Context
 {
     public class StoreContext

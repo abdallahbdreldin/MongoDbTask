@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using TodayWebApi.BLL.Managers;
+using TodayWebApi.BLL.Managers.Shared.Payment;
 using TodayWebAPi.DAL.Data.Models;
 
 namespace TodayWebAPi.Controllers

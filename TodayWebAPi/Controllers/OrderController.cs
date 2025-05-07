@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using TodayWebApi.BLL.Dtos;
-using TodayWebApi.BLL.Managers;
-using TodayWebAPi.DAL.Data.Models;
+using TodayWebApi.BLL.Dtos.Orders;
+using TodayWebApi.BLL.Managers.Orders;
+using TodayWebApi.BLL.Managers.Shared.Email;
+using TodayWebAPi.DAL.Data.Entities;
 
 namespace TodayWebAPi.Controllers
 {
@@ -54,8 +55,6 @@ namespace TodayWebAPi.Controllers
             var email = GetUserEmail();
             try
             {
-                //var email = User?.Identity?.Name;
-
                 _logger.LogInformation("Fetching orders for user: {Email}", email);
                 var ordersToReturn = await _orderManager.GetOrdersForUserAsync(email);
 

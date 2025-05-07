@@ -1,6 +1,6 @@
 ﻿using StackExchange.Redis;
 using System.Text.Json;
-using TodayWebAPi.DAL.Data.Models;
+using TodayWebAPi.DAL.Data.Entities;
 
 namespace TodayWebAPi.DAL.Repos.Basket
 {

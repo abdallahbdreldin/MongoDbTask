@@ -1,4 +1,4 @@
-﻿using TodayWebAPi.DAL.Data.Models;
+﻿using TodayWebAPi.DAL.Data.Entities;
 using TodayWebAPi.DAL.Repos.Generic;
 
 namespace TodayWebAPi.DAL.Repos.Products
@@ -9,5 +9,4 @@ namespace TodayWebAPi.DAL.Repos.Products
         Task<(IReadOnlyList<Product>, int)> FilterProductsAsync(string category, decimal? minPrice, decimal? maxPrice, bool? inStock, int pageNumber, int pageSize);
         Task<IReadOnlyList<Product>> SearchProductsAsync(string keyword);
     }
-
 }
